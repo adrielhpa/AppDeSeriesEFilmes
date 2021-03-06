@@ -1,0 +1,16 @@
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\bin\Debug\net5.0\DIO_Series.exe
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\bin\Debug\net5.0\DIO_Series.deps.json
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\bin\Debug\net5.0\DIO_Series.runtimeconfig.json
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\bin\Debug\net5.0\DIO_Series.runtimeconfig.dev.json
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\bin\Debug\net5.0\DIO_Series.dll
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\bin\Debug\net5.0\ref\DIO_Series.dll
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\bin\Debug\net5.0\DIO_Series.pdb
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\obj\Debug\net5.0\DIO_Series.csprojAssemblyReference.cache
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\obj\Debug\net5.0\DIO_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\obj\Debug\net5.0\DIO_Series.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\obj\Debug\net5.0\DIO_Series.AssemblyInfo.cs
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\obj\Debug\net5.0\DIO_Series.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\obj\Debug\net5.0\DIO_Series.dll
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\obj\Debug\net5.0\ref\DIO_Series.dll
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\obj\Debug\net5.0\DIO_Series.pdb
+C:\Users\adrie\Desktop\DEV\C#\DIO_Series\obj\Debug\net5.0\DIO_Series.genruntimeconfig.cache
