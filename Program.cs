@@ -122,7 +122,7 @@ namespace DIO_Series
             System.Console.WriteLine("Digite o ano de lançamento da série: ");
             int entradaAno = int.Parse(Console.ReadLine());
 
-            System.Console.WriteLine("Digite a descrisão da série: ");
+            System.Console.WriteLine("Digite a descrição da série: ");
             string entradaDescricao = Console.ReadLine();
 
             Serie novaSerie = new Serie(id: repositorio.ProximoId(),
@@ -244,7 +244,7 @@ namespace DIO_Series
             System.Console.WriteLine("Digite o ano de lançamento do filme: ");
             int entradaAno = int.Parse(Console.ReadLine());
 
-            System.Console.WriteLine("Digite a descrisão do filme: ");
+            System.Console.WriteLine("Digite a descrição do filme: ");
             string entradaDescricao = Console.ReadLine();
 
             Filme novoFilme = new Filme(id: filmeRepositorio.ProximoId(),
